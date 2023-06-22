@@ -1,4 +1,4 @@
-###Hello World! 👋🌍
+### Hello World! 👋🌍
 
 I'm Raoul Rondinella, your friendly neighbourhood coder 🧑‍💻. From the depths of Android development 📱 to the wilds of bug-bashing 🐜💥, I thrive on conquering coding challenges 🧗‍♂️💻. When I'm not deep in the matrix of programming, you'll likely find me charting my next GitHub adventure 🗺️🚀.
 
