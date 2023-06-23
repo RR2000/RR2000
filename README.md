@@ -6,15 +6,17 @@ I live in a world of code 📚, powered by caffeine ☕, and always ready for mo
 
 See you on GitHub! 🎉
 
-### Best projects
-#### Personal
+## Best projects
+### Personal
 <ul>
   <li><a href="https://github.com/RR2000/Strhack">Strhack</a> (Android in Kotlin)</li>
 </ul>
 
-#### University
+### University
+Projects in collaboration with <a href="https://github.com/AndreaBirritteri">Andrea Birritteri</a>
 <ul>
   <li><a href="https://github.com/RR2000/laboratorio-TWEB-2021-2022">Booking App</a> (Servlet and Vue.js WebApp Docker)</li>
   <li><a href="https://github.com/RR2000/laboratorio-IUM-2021-2022">Booking App</a> (Android in Kotlin)</li>
   <li><a href="https://github.com/RR2000/laboratorio-sistemi-operativi-2022-2023">Cargo ship simulator</a> (Concurrency in C) This project is currently unavailable because the academic year isn't finished yet</li>
+  <li><a href=https://github.com/RR2000/laboratorio-algoritmi-2021-2022">Algorithms project</a> (C and Java)</li>
 </ul>
