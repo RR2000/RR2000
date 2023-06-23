@@ -17,6 +17,6 @@ Projects in collaboration with <a href="https://github.com/AndreaBirritteri">And
 <ul>
   <li><a href="https://github.com/RR2000/laboratorio-TWEB-2021-2022">Booking App</a> (Servlet and Vue.js WebApp Docker)</li>
   <li><a href="https://github.com/RR2000/laboratorio-IUM-2021-2022">Booking App</a> (Android in Kotlin)</li>
-  <li><a href="https://github.com/RR2000/laboratorio-sistemi-operativi-2022-2023">Cargo ship simulator</a> (Concurrency in C) This project is currently unavailable because the academic year isn't finished yet</li>
-  <li><a href=https://github.com/RR2000/laboratorio-algoritmi-2021-2022">Algorithms project</a> (C and Java)</li>
+  <li><a href="https://github.com/RR2000/laboratorio-sistemi-operativi-2022-2023">Cargo ship simulator</a> (Concurrency in C) This project is currently unavailable because the academic year isn't over yet</li>
+  <li><a href="https://github.com/RR2000/laboratorio-algoritmi-2021-2022">Algorithms project</a> (C and Java)</li>
 </ul>
