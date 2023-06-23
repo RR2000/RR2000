@@ -9,7 +9,7 @@ See you on GitHub! 🎉
 ### Best projects
 #### Personal
 <ul>
-  <li><a href="https://github.com/RR2000/Strhack">Strhack (Android in Kotlin)</a></li>
+  <li><a href="https://github.com/RR2000/Strhack">Strhack</a> (Android in Kotlin)</li>
 </ul>
 
 #### University
