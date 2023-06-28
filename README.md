@@ -20,3 +20,11 @@ Projects in collaboration with <a href="https://github.com/AndreaBirritteri">And
   <li><a href="https://github.com/RR2000/laboratorio-sistemi-operativi-2022-2023">Cargo ship simulator</a> (Concurrency in C) This project is currently unavailable because the academic year isn't over yet</li>
   <li><a href="https://github.com/RR2000/laboratorio-algoritmi-2021-2022">Algorithms project</a> (C and Java)</li>
 </ul>
+
+## Bachelor's Thesis
+<b>Title:</b> Integration between authentication services and blockchain: how to manage cryptographic wallets. </br>
+<b> Year:</b> 2022
+<ul>
+  <li><a href="https://github.com/RR2000/RR2000/blob/main/Rondinella-Raoul-Thesis.pdf">Thesis</a> (in Italian)</li>
+  <li><a href="https://github.com/RR2000/RR2000/blob/main/Rondinella-Raoul-Presentation.pdf">Thesis presentation</a> (in Italian)</li>
+</ul>
