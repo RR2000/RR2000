@@ -31,3 +31,5 @@ Projects with [Andrea Birritteri](https://github.com/AndreaBirritteri):
 
 - [Thesis](https://github.com/RR2000/RR2000/blob/main/Rondinella-Raoul-Thesis.pdf)
 - [Presentation](https://github.com/RR2000/RR2000/blob/main/Rondinella-Raoul-Presentation.pdf)
+- [Code](https://github.com/RR2000/oauth2-blockchain), brought back to life in 2026, and a
+  [live demo](https://wallet.raoulrondinella.dev) on the Sepolia test network
