@@ -1,30 +1,33 @@
-## Hello World! 👋🌍
+## Hi, I'm Raoul 👋
 
-I'm Raoul Rondinella, your friendly neighbourhood coder 🧑‍💻. From the depths of Android development 📱 to the wilds of bug-bashing 🐜💥, I thrive on conquering coding challenges 🧗‍♂️💻.
+Software developer in Turin. At work I build Java and Spring Boot microservices, help modernise a legacy
+Java/COBOL system and write the developer tooling my team uses every day. At home I run my own homelab,
+from the hardware to the pipelines.
 
-I live in a world of code 📚, powered by caffeine ☕, and always ready for more challenges 🎯. 
+My CV and what I'm working on: **[raoulrondinella.dev](https://raoulrondinella.dev)**
 
-See you on GitHub! 🎉
+## Projects
 
-## Best projects
-### Personal
-<ul>
-  <li><a href="https://github.com/RR2000/Strhack">Strhack</a> (Android in Kotlin)</li>
-</ul>
+- [Strhack](https://github.com/RR2000/Strhack): GPS tracker for runs and rides, Android in Kotlin
+- [Outfit Generator](https://outfit.raoulrondinella.dev): wardrobe and outfit app, Go backend and Expo / React Native app
 
-### University
-Projects in collaboration with <a href="https://github.com/AndreaBirritteri">Andrea Birritteri</a>
-<ul>
-  <li><a href="https://github.com/RR2000/laboratorio-TWEB-2021-2022">Booking App</a> (Servlet and Vue.js WebApp Docker)</li>
-  <li><a href="https://github.com/RR2000/laboratorio-IUM-2021-2022">Booking App</a> (Android in Kotlin)</li>
-  <li><a href="https://github.com/RR2000/laboratorio-sistemi-operativi-2022-2023">Cargo ship simulator</a> (Concurrency in C)</li>
-  <li><a href="https://github.com/RR2000/laboratorio-algoritmi-2021-2022">Algorithms project</a> (C and Java)</li>
-</ul>
+## University of Turin
 
-## Bachelor's Thesis
-<b>Title:</b> Integration between authentication services and blockchain: how to manage cryptographic wallets. </br>
-<b> Year:</b> 2022
-<ul>
-  <li><a href="https://github.com/RR2000/RR2000/blob/main/Rondinella-Raoul-Thesis.pdf">Thesis</a> (in Italian)</li>
-  <li><a href="https://github.com/RR2000/RR2000/blob/main/Rondinella-Raoul-Presentation.pdf">Thesis presentation</a> (in Italian)</li>
-</ul>
+Projects with [Andrea Birritteri](https://github.com/AndreaBirritteri):
+
+- [Booking web app](https://github.com/RR2000/laboratorio-TWEB-2021-2022): Java servlets and Vue.js, on Docker
+- [Booking Android app](https://github.com/RR2000/laboratorio-IUM-2021-2022): Kotlin
+- [Cargo ship simulator](https://github.com/RR2000/laboratorio-sistemi-operativi-2022-2023): concurrency in C
+- [Algorithms and data structures](https://github.com/RR2000/laboratorio-algoritmi-2021-2022): C and Java
+
+## Erasmus+ at the University of Oslo
+
+- [IN3030 Efficient parallel programming](https://github.com/RR2000/IN3030-efficient-parallel-programming): Java
+- [IN3050 Introduction to AI and machine learning](https://github.com/RR2000/IN3050-introduction-AI-ML-2022): Python notebooks
+
+## Bachelor's thesis
+
+**Integration between authentication services and blockchain: how to manage cryptographic wallets** (2022, in Italian)
+
+- [Thesis](https://github.com/RR2000/RR2000/blob/main/Rondinella-Raoul-Thesis.pdf)
+- [Presentation](https://github.com/RR2000/RR2000/blob/main/Rondinella-Raoul-Presentation.pdf)
