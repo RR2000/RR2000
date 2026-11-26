@@ -25,6 +25,9 @@ Most of them have a live demo, running on my homelab.
 - [Food Calc](https://kcal.raoulrondinella.dev): calories from the barcode, values from Open Food Facts and a diary of
   the day, Spring Boot API and Expo / React Native app ([backend](https://github.com/RR2000/food-calc-backend),
   [app](https://github.com/RR2000/food-calc-app))
+- [Teams Remix](https://github.com/RR2000/teams-remix): themes, animated effects, housemates and nicknames with a photo
+  for the new Teams on Windows, only on your own PC, with a switch inside Teams; Python with the standard library only
+  ([download](https://github.com/RR2000/teams-remix/releases/latest))
 - [Strhack](https://github.com/RR2000/strhack): GPS tracker for runs and rides, Android in Kotlin
 
 ## University of Turin
