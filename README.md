@@ -38,8 +38,8 @@ Projects with [Andrea Birritteri](https://github.com/AndreaBirritteri):
 
 ## Erasmus+ at the University of Oslo
 
-- [IN3030 Efficient parallel programming](https://github.com/RR2000/uio-in3030-parallel-programming-2023): Java
-- [IN3050 Introduction to AI and machine learning](https://github.com/RR2000/uio-in3050-ai-machine-learning-2022): Python notebooks
+- [IN3030 Efficient parallel programming](https://github.com/RR2000/uio-in3030-parallel-programming-2021-2022): Java
+- [IN3050 Introduction to AI and machine learning](https://github.com/RR2000/uio-in3050-ai-machine-learning-2021-2022): Python notebooks
 
 ## Bachelor's thesis
 
