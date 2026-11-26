@@ -8,8 +8,24 @@ My CV and what I'm working on: **[raoulrondinella.dev](https://raoulrondinella.d
 
 ## Projects
 
-- [Strhack](https://github.com/RR2000/Strhack): GPS tracker for runs and rides, Android in Kotlin
+Most of them have a live demo, running on my homelab.
+
 - [Outfit Generator](https://outfit.raoulrondinella.dev): wardrobe and outfit app, Go backend and Expo / React Native app
+- [MoneyManage](https://money.raoulrondinella.dev): self-hosted personal finance dashboard, Spring Boot and Angular
+  ([backend](https://github.com/RR2000/MoneyManageBackend), [frontend](https://github.com/RR2000/MoneyManageFrontend))
+- [Crypto Wallet](https://wallet.raoulrondinella.dev): my bachelor's thesis back online on the Sepolia test network,
+  an Ethereum wallet behind an ordinary login, Spring Boot and Vue.js ([code](https://github.com/RR2000/oauth2-blockchain))
+- [Eyes](https://eyes.raoulrondinella.dev): small multiplayer browser game over a WebSocket, TypeScript and Node.js
+  ([code](https://github.com/RR2000/simple-game))
+- [Last Coins](https://coins.raoulrondinella.dev): live list of the trading pairs just created on PancakeSwap and
+  Uniswap, read from public nodes, with a warning that nearly every new token is a scam; Vue.js and TypeScript
+  ([code](https://github.com/RR2000/last-coins))
+- [automaticTraderAI](https://trader.raoulrondinella.dev): an old deep Q-network experiment, now paper trading on real
+  Binance prices next to buy and hold, no real money; Python ([code](https://github.com/RR2000/automaticTraderAI))
+- [foodcalc](https://kcal.raoulrondinella.dev): calories from the barcode, values from Open Food Facts and a diary of
+  the day, Spring Boot API and Expo / React Native app ([backend](https://github.com/RR2000/foodcalc),
+  [app](https://github.com/RR2000/foodcalcfe))
+- [Strhack](https://github.com/RR2000/Strhack): GPS tracker for runs and rides, Android in Kotlin
 
 ## University of Turin
 
