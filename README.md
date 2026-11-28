@@ -10,14 +10,14 @@ My CV: **[English, PDF](https://raoulrondinella.dev/cv/raoul-rondinella-cv-en.pd
 
 Most of them run on my homelab, with a live demo.
 
-<!-- Outfit Generator e Money Manage: "app" e non "live demo" finche' si aprono sul login; quando c'e' la demo a un
-clic, senza password, tornano "live demo" (come in cv.json della vetrina, flag "login"). -->
+<!-- Outfit Generator: "app" e non "live demo" finche' si apre sul login; quando c'e' la demo a un clic, senza
+password, torna "live demo" (come in cv.json della vetrina, flag "login"). Money Manage ce l'ha dal 28/11/2026: /demo. -->
 
 - **Outfit Generator**: wardrobe and outfit app, Go backend and Expo / React Native app
   ([app](https://outfit.raoulrondinella.dev), sign-in required)
 - **Money Manage**: self-hosted personal finance dashboard, Spring Boot and Angular
-  ([app](https://money.raoulrondinella.dev), sign-in required; [backend](https://github.com/RR2000/money-manage-backend),
-  [frontend](https://github.com/RR2000/money-manage-app))
+  ([live demo](https://money.raoulrondinella.dev/demo), one click, made-up data, no sign-up;
+  [backend](https://github.com/RR2000/money-manage-backend), [frontend](https://github.com/RR2000/money-manage-app))
 - **Crypto Wallet**: my bachelor's thesis back online on the Sepolia test network, an Ethereum wallet behind an
   ordinary login, Spring Boot and Vue.js ([live demo (Italian UI)](https://wallet.raoulrondinella.dev),
   [code](https://github.com/RR2000/crypto-wallet))
