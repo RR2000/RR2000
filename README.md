@@ -45,6 +45,10 @@ Projects with [Andrea Birritteri](https://github.com/AndreaBirritteri):
 - [Cargo ship simulator](https://github.com/RR2000/unito-operating-systems-2022-2023): concurrency in C
 - [Algorithms and data structures](https://github.com/RR2000/unito-algorithms-2021-2022): C and Java
 
+Other course projects:
+
+- [Taxi simulator](https://github.com/RR2000/unito-operating-systems-2020-2021): processes and System V IPC in C
+
 ## Erasmus+ at the University of Oslo
 
 - [IN3030 Efficient parallel programming](https://github.com/RR2000/uio-in3030-parallel-programming-2021-2022): Java
