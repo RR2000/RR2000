@@ -4,7 +4,7 @@ Software developer in Turin. At work I build Java and Spring Boot microservices,
 Java/COBOL system and write the developer tooling my team uses every day. At home I run my own homelab,
 from the hardware to the pipelines.
 
-My CV and what I'm working on: **[raoulrondinella.dev](https://raoulrondinella.dev)**
+My CV: **[English, PDF](https://raoulrondinella.dev/raoul-rondinella-cv-en.pdf)**. Other versions and what I'm working on: [raoulrondinella.dev](https://raoulrondinella.dev)
 
 ## Projects
 
