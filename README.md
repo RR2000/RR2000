@@ -8,27 +8,32 @@ My CV: **[English, PDF](https://raoulrondinella.dev/cv/raoul-rondinella-cv-en.pd
 
 ## Projects
 
-Most of them have a live demo, running on my homelab.
+Most of them run on my homelab, with a live demo.
+<!-- Outfit Generator e Money Manage: "app" e non "live demo" finche' si aprono sul login; quando c'e' la demo a un
+clic, senza password, tornano "live demo" (come in cv.json della vetrina, flag "login"). -->
 
-- [Outfit Generator](https://outfit.raoulrondinella.dev): wardrobe and outfit app, Go backend and Expo / React Native app
-- [MoneyManage](https://money.raoulrondinella.dev): self-hosted personal finance dashboard, Spring Boot and Angular
-  ([backend](https://github.com/RR2000/money-manage-backend), [frontend](https://github.com/RR2000/money-manage-app))
-- [Crypto Wallet](https://wallet.raoulrondinella.dev): my bachelor's thesis back online on the Sepolia test network,
-  an Ethereum wallet behind an ordinary login, Spring Boot and Vue.js ([code](https://github.com/RR2000/crypto-wallet))
-- [Eyes](https://eyes.raoulrondinella.dev): small multiplayer browser game over a WebSocket, TypeScript and Node.js
-  ([code](https://github.com/RR2000/eyes))
-- [Last Coins](https://coins.raoulrondinella.dev): live list of the trading pairs just created on PancakeSwap and
-  Uniswap, read from public nodes, with a warning that nearly every new token is a scam; Vue.js and TypeScript
-  ([code](https://github.com/RR2000/last-coins))
-- [AI Trader](https://trader.raoulrondinella.dev): an old deep Q-network experiment, now paper trading on real
-  Binance prices next to buy and hold, no real money; Python ([code](https://github.com/RR2000/ai-trader))
-- [Food Calc](https://kcal.raoulrondinella.dev): calories from the barcode, values from Open Food Facts and a diary of
-  the day, Spring Boot API and Expo / React Native app ([backend](https://github.com/RR2000/food-calc-backend),
-  [app](https://github.com/RR2000/food-calc-app))
-- [Teams Remix](https://github.com/RR2000/teams-remix): themes, animated effects, housemates and nicknames with a photo
-  for the new Teams on Windows, only on your own PC, with a switch inside Teams; Python with the standard library only
-  ([download](https://github.com/RR2000/teams-remix/releases/latest))
-- [Strhack](https://github.com/RR2000/strhack): GPS tracker for runs and rides, Android in Kotlin
+- **Outfit Generator**: wardrobe and outfit app, Go backend and Expo / React Native app
+  ([app](https://outfit.raoulrondinella.dev), sign-in required)
+- **Money Manage**: self-hosted personal finance dashboard, Spring Boot and Angular
+  ([app](https://money.raoulrondinella.dev), sign-in required; [backend](https://github.com/RR2000/money-manage-backend),
+  [frontend](https://github.com/RR2000/money-manage-app))
+- **Crypto Wallet**: my bachelor's thesis back online on the Sepolia test network, an Ethereum wallet behind an
+  ordinary login, Spring Boot and Vue.js ([live demo (Italian UI)](https://wallet.raoulrondinella.dev),
+  [code](https://github.com/RR2000/crypto-wallet))
+- **Eyes**: small multiplayer browser game over a WebSocket, TypeScript and Node.js
+  ([live demo](https://eyes.raoulrondinella.dev), [code](https://github.com/RR2000/eyes))
+- **Last Coins**: live list of the trading pairs just created on PancakeSwap and Uniswap, read from public nodes, with
+  a warning that nearly every new token is a scam; Vue.js and TypeScript ([live demo](https://coins.raoulrondinella.dev),
+  [code](https://github.com/RR2000/last-coins))
+- **AI Trader**: an old deep Q-network experiment, now paper trading on real Binance prices next to buy and hold, no
+  real money; Python ([live demo](https://trader.raoulrondinella.dev), [code](https://github.com/RR2000/ai-trader))
+- **Food Calc**: calories from the barcode, values from Open Food Facts and a diary of the day, Spring Boot API and
+  Expo / React Native app ([live demo](https://kcal.raoulrondinella.dev),
+  [backend](https://github.com/RR2000/food-calc-backend), [app](https://github.com/RR2000/food-calc-app))
+- **Teams Remix**: themes, animated effects, housemates and nicknames with a photo for the new Teams on Windows, only
+  on your own PC, with a switch inside Teams; Python with the standard library only
+  ([code](https://github.com/RR2000/teams-remix), [download](https://github.com/RR2000/teams-remix/releases/latest))
+- **Strhack**: GPS tracker for runs and rides, Android in Kotlin ([code](https://github.com/RR2000/strhack))
 
 ## University of Turin
 
@@ -46,9 +51,10 @@ Projects with [Andrea Birritteri](https://github.com/AndreaBirritteri):
 
 ## Bachelor's thesis
 
-**Integration between authentication services and blockchain: how to manage cryptographic wallets** (2022, in Italian)
+**Integration between authentication services and blockchain: how to manage cryptographic wallets** (defended in
+April 2023, in Italian)
 
 - [Thesis](https://github.com/RR2000/RR2000/blob/main/Rondinella-Raoul-Thesis.pdf)
 - [Presentation](https://github.com/RR2000/RR2000/blob/main/Rondinella-Raoul-Presentation.pdf)
 - [Code](https://github.com/RR2000/crypto-wallet), brought back to life in 2026, and a
-  [live demo](https://wallet.raoulrondinella.dev) on the Sepolia test network
+  [live demo (Italian UI)](https://wallet.raoulrondinella.dev) on the Sepolia test network
