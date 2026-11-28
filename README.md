@@ -10,8 +10,8 @@ My CV: **[English, PDF](https://raoulrondinella.dev/cv/raoul-rondinella-cv-en.pd
 
 Most of them run on my homelab, with a live demo.
 
-<!-- Outfit Generator: "app" e non "live demo" finche' si apre sul login; quando c'e' la demo a un clic, senza
-password, torna "live demo" (come in cv.json della vetrina, flag "login"). Money Manage ce l'ha dal 28/11/2026: /demo. -->
+<!-- Outfit Generator: "app", not "live demo", while it opens on the login; once there is a one-click demo without
+a password, it goes back to "live demo" (as in the showcase's cv.json, "login" flag). Money Manage has had one since 28/11/2026: /demo. -->
 
 - **Outfit Generator**: wardrobe and outfit app, Go backend and Expo / React Native app
   ([app](https://outfit.raoulrondinella.dev), sign-in required)
