@@ -19,7 +19,7 @@ a password, it goes back to "live demo" (as in the showcase's cv.json, "login" f
   ([live demo](https://money.raoulrondinella.dev/demo), one click, made-up data, no sign-up;
   [backend](https://github.com/RR2000/money-manage-backend), [frontend](https://github.com/RR2000/money-manage-app))
 - **Crypto Wallet**: my bachelor's thesis back online on the Sepolia test network, an Ethereum wallet behind an
-  ordinary login, Spring Boot and Vue.js ([live demo (Italian UI)](https://wallet.raoulrondinella.dev),
+  ordinary login, Spring Boot and Vue.js ([live demo](https://wallet.raoulrondinella.dev),
   [code](https://github.com/RR2000/crypto-wallet))
 - **Eyes**: small multiplayer browser game over a WebSocket, TypeScript and Node.js
   ([live demo](https://eyes.raoulrondinella.dev), [code](https://github.com/RR2000/eyes))
@@ -62,4 +62,4 @@ April 2023, in Italian)
 - [Thesis](https://github.com/RR2000/RR2000/blob/main/Rondinella-Raoul-Thesis.pdf)
 - [Presentation](https://github.com/RR2000/RR2000/blob/main/Rondinella-Raoul-Presentation.pdf)
 - [Code](https://github.com/RR2000/crypto-wallet), brought back to life in 2026, and a
-  [live demo (Italian UI)](https://wallet.raoulrondinella.dev) on the Sepolia test network
+  [live demo](https://wallet.raoulrondinella.dev) on the Sepolia test network
