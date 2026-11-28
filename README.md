@@ -9,6 +9,7 @@ My CV: **[English, PDF](https://raoulrondinella.dev/cv/raoul-rondinella-cv-en.pd
 ## Projects
 
 Most of them run on my homelab, with a live demo.
+
 <!-- Outfit Generator e Money Manage: "app" e non "live demo" finche' si aprono sul login; quando c'e' la demo a un
 clic, senza password, tornano "live demo" (come in cv.json della vetrina, flag "login"). -->
 
